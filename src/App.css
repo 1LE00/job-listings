@@ -1,0 +1,16 @@
+@media screen and (min-width: 1024px) {
+  :root {
+    --padding-inline: 3rem;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  :root {
+    --padding-inline: 12rem;
+  }
+
+  .App {
+    max-width: 1536px;
+    margin-inline: auto;
+  }
+}
