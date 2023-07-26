@@ -2,7 +2,7 @@
   {
     "id": 1,
     "company": "Photosnap",
-    "logo": "icons/photosnap.svg",
+    "logo": "job-listings/icons/photosnap.svg",
     "new": true,
     "featured": true,
     "position": "Senior Frontend Developer",
@@ -17,7 +17,7 @@
   {
     "id": 2,
     "company": "Manage",
-    "logo": "icons/manage.svg",
+    "logo": "job-listings/icons/manage.svg",
     "new": true,
     "featured": true,
     "position": "Fullstack Developer",
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "company": "Account",
-    "logo": "icons/account.svg",
+    "logo": "job-listings/icons/account.svg",
     "new": true,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "company": "MyHome",
-    "logo": "icons/myhome.svg",
+    "logo": "job-listings/icons/myhome.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -62,7 +62,7 @@
   {
     "id": 5,
     "company": "Loop Studios",
-    "logo": "icons/loop-studios.svg",
+    "logo": "job-listings/icons/loop-studios.svg",
     "new": false,
     "featured": false,
     "position": "Software Engineer",
@@ -77,7 +77,7 @@
   {
     "id": 6,
     "company": "FaceIt",
-    "logo": "icons/faceit.svg",
+    "logo": "job-listings/icons/faceit.svg",
     "new": false,
     "featured": false,
     "position": "Junior Backend Developer",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "company": "Shortly",
-    "logo": "icons/shortly.svg",
+    "logo": "job-listings/icons/shortly.svg",
     "new": false,
     "featured": false,
     "position": "Junior Developer",
@@ -107,7 +107,7 @@
   {
     "id": 8,
     "company": "Insure",
-    "logo": "icons/insure.svg",
+    "logo": "job-listings/icons/insure.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -122,7 +122,7 @@
   {
     "id": 9,
     "company": "Eyecam Co.",
-    "logo": "icons/eyecam-co.svg",
+    "logo": "job-listings/icons/eyecam-co.svg",
     "new": false,
     "featured": false,
     "position": "Full Stack Engineer",
@@ -137,7 +137,7 @@
   {
     "id": 10,
     "company": "The Air Filter Company",
-    "logo": "icons/the-air-filter-company.svg",
+    "logo": "job-listings/icons/the-air-filter-company.svg",
     "new": false,
     "featured": false,
     "position": "Front-end Dev",
