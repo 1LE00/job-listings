@@ -19,7 +19,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Filter job listings based on the categories
+- Filter job listings based on the categories(Click on any category to filter)
 
 ### Screenshot
 
